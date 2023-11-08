@@ -21,7 +21,7 @@
             <group>
               <field name="name"/>
               <field name="descripcion"/>
-              <field name="sexo"/>
+              <field name="sexo_traducido"/>
               <field name="peso"/>
               <field name="alto_en_cms"/>
               <field name="longo_en_cms"/>
@@ -41,7 +41,7 @@
         <tree string="Formulario de Información">
           <field name="name"/>
             <field name="descripcion"/>
-            <field name="sexo"/>
+            <field name="sexo_traducido"/>
             <field name="peso"/>
             <field name="alto_en_cms"/>
             <field name="longo_en_cms"/>
